@@ -1,0 +1,5 @@
+Mailer Server (eg. gmail) is different than the Rails server
+
+Redis is another data-store, kind of like Postgres
+
+twitter only lets you go back 3200 tweets

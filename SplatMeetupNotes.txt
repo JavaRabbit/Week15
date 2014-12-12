@@ -1,0 +1,26 @@
+Authentication - Lecture by Andrew
+
+verifying a person and consent, 
+need to confirm claimed identity
+authentication and permission is related
+
+How to prove identity - 
+Exchange of secrets, password
+or environmental (eg. if user is a building...then user must be...)
+or third party, oauth, eg. twitter
+
+Eg. facebook, a picture is not locked. eg you can send a picture to a friend on facebook
+without needing log in
+
+Phishing
+Password manager, eg. onepass. 
+Physical OTP tokens
+SSH keys
+
+Finger print, retina passwords
+CAPTCHA proves that you are human
+
+Test your authentication for bugs
+front door and back door
+
+local variable, return address (parameters?),  activation record

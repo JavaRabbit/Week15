@@ -1,0 +1,8 @@
+Model of Computation
+
+Random Access Machine
+- with memory address, hexadecimal storage locations
+
+Pointer Machine
+- boxes with pointer that point to data elsewhere
+- pointers help keep track of stuff
